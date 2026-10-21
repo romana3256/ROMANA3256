@@ -1,25 +1,17 @@
-# ✨ ROMANA3256
-### FASHION & CLOTHING
+# ROMANA3256 — Fashion & Clothing
 
 **Define Your Style. Wear Your Confidence.**
 
-Welcome to **ROMANA3256**, a modern fashion and clothing brand inspired by timeless elegance, contemporary trends, and everyday confidence.
+A responsive English-language demo fashion storefront featuring a black, gold and white brand palette, editorial hero, curated collections, eight sample products with USD prices, search, category filters and a functional demonstration shopping bag.
 
-We believe fashion is more than clothing — it is a reflection of personality, individuality, and self-expression.
+## Publishing on GitHub Pages
 
----
+1. Upload `index.html` to the root of a GitHub repository.
+2. Go to **Settings → Pages**.
+3. Choose **Deploy from a branch**, `main`, `/ (root)` and save.
 
-## 🖤 About Us
+## Important
 
-**ROMANA3256 Fashion & Clothing** is a contemporary fashion brand dedicated to bringing together elegant apparel, modern streetwear, and timeless wardrobe essentials.
+Product names and prices are illustrative, not real inventory. Product photography and fonts are loaded from external services and require internet access. The shopping bag is a front-end demo; checkout and newsletter submissions do not process transactions or store data. Replace placeholder images, products and contact information before launching a real business.
 
-Our goal is to create a sophisticated online shopping experience where style, comfort, and individuality come together.
-
-## 🛍️ Our Fashion Collections
-
-- 👗 **Women's Fashion** — Elegant dresses, stylish tops, contemporary outfits, and everyday essentials.
-- 👔 **Men's Fashion** — Modern shirts, jackets, trousers, and refined casualwear.
-- 🧥 **Streetwear** — Hoodies, oversized clothing, urban styles, and trend-inspired collections.
-- 👟 **Footwear** — Sneakers, casual shoes, and versatile footwear.
-- 👜 **Fashion
-- 
+© 2026 ROMANA3256.
